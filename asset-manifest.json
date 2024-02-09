@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/react-calculator-todoList/static/css/main.acfc4d7d.css",
+    "main.js": "/react-calculator-todoList/static/js/main.2a8d00a8.js",
+    "reactPlayerYouTube.js": "/react-calculator-todoList/static/js/reactPlayerYouTube.e3b9bb16.chunk.js",
+    "reactPlayerSoundCloud.js": "/react-calculator-todoList/static/js/reactPlayerSoundCloud.60fc70b5.chunk.js",
+    "reactPlayerVimeo.js": "/react-calculator-todoList/static/js/reactPlayerVimeo.a4b8dafe.chunk.js",
+    "reactPlayerFacebook.js": "/react-calculator-todoList/static/js/reactPlayerFacebook.85ecfe16.chunk.js",
+    "reactPlayerStreamable.js": "/react-calculator-todoList/static/js/reactPlayerStreamable.3b999fa6.chunk.js",
+    "reactPlayerWistia.js": "/react-calculator-todoList/static/js/reactPlayerWistia.046e475e.chunk.js",
+    "reactPlayerTwitch.js": "/react-calculator-todoList/static/js/reactPlayerTwitch.1bfdfff5.chunk.js",
+    "reactPlayerDailyMotion.js": "/react-calculator-todoList/static/js/reactPlayerDailyMotion.9404726f.chunk.js",
+    "reactPlayerMixcloud.js": "/react-calculator-todoList/static/js/reactPlayerMixcloud.aedab357.chunk.js",
+    "reactPlayerVidyard.js": "/react-calculator-todoList/static/js/reactPlayerVidyard.62a98497.chunk.js",
+    "reactPlayerKaltura.js": "/react-calculator-todoList/static/js/reactPlayerKaltura.947c3179.chunk.js",
+    "reactPlayerFilePlayer.js": "/react-calculator-todoList/static/js/reactPlayerFilePlayer.dd204c1e.chunk.js",
+    "reactPlayerPreview.js": "/react-calculator-todoList/static/js/reactPlayerPreview.f8a23fc7.chunk.js",
+    "static/js/592.e443b9cd.chunk.js": "/react-calculator-todoList/static/js/592.e443b9cd.chunk.js",
+    "index.html": "/react-calculator-todoList/index.html",
+    "main.acfc4d7d.css.map": "/react-calculator-todoList/static/css/main.acfc4d7d.css.map",
+    "main.2a8d00a8.js.map": "/react-calculator-todoList/static/js/main.2a8d00a8.js.map",
+    "reactPlayerYouTube.e3b9bb16.chunk.js.map": "/react-calculator-todoList/static/js/reactPlayerYouTube.e3b9bb16.chunk.js.map",
+    "reactPlayerSoundCloud.60fc70b5.chunk.js.map": "/react-calculator-todoList/static/js/reactPlayerSoundCloud.60fc70b5.chunk.js.map",
+    "reactPlayerVimeo.a4b8dafe.chunk.js.map": "/react-calculator-todoList/static/js/reactPlayerVimeo.a4b8dafe.chunk.js.map",
+    "reactPlayerFacebook.85ecfe16.chunk.js.map": "/react-calculator-todoList/static/js/reactPlayerFacebook.85ecfe16.chunk.js.map",
+    "reactPlayerStreamable.3b999fa6.chunk.js.map": "/react-calculator-todoList/static/js/reactPlayerStreamable.3b999fa6.chunk.js.map",
+    "reactPlayerWistia.046e475e.chunk.js.map": "/react-calculator-todoList/static/js/reactPlayerWistia.046e475e.chunk.js.map",
+    "reactPlayerTwitch.1bfdfff5.chunk.js.map": "/react-calculator-todoList/static/js/reactPlayerTwitch.1bfdfff5.chunk.js.map",
+    "reactPlayerDailyMotion.9404726f.chunk.js.map": "/react-calculator-todoList/static/js/reactPlayerDailyMotion.9404726f.chunk.js.map",
+    "reactPlayerMixcloud.aedab357.chunk.js.map": "/react-calculator-todoList/static/js/reactPlayerMixcloud.aedab357.chunk.js.map",
+    "reactPlayerVidyard.62a98497.chunk.js.map": "/react-calculator-todoList/static/js/reactPlayerVidyard.62a98497.chunk.js.map",
+    "reactPlayerKaltura.947c3179.chunk.js.map": "/react-calculator-todoList/static/js/reactPlayerKaltura.947c3179.chunk.js.map",
+    "reactPlayerFilePlayer.dd204c1e.chunk.js.map": "/react-calculator-todoList/static/js/reactPlayerFilePlayer.dd204c1e.chunk.js.map",
+    "reactPlayerPreview.f8a23fc7.chunk.js.map": "/react-calculator-todoList/static/js/reactPlayerPreview.f8a23fc7.chunk.js.map",
+    "592.e443b9cd.chunk.js.map": "/react-calculator-todoList/static/js/592.e443b9cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acfc4d7d.css",
+    "static/js/main.2a8d00a8.js"
+  ]
+}
