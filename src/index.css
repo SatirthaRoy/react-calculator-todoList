@@ -1,0 +1,170 @@
+body, * {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+ul {
+  display: flex;
+  padding: 0;
+  gap: 40px;
+  background-color: antiquewhite;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+ul li {
+  list-style: none;
+}
+
+.calculator {
+  width: 380px;
+  margin: auto;
+}
+
+.screen {
+  height: 70px;
+  font-size: 50px;
+  color: black;
+  font-weight: bolder;
+  text-align: right;
+  padding: 20px;
+}
+
+.calculator button {
+  padding: 5px;
+  color: white;
+  font-size: 30px;
+  font-weight: bolder;
+  background-color: black;
+  height: 80px;
+  border: none;
+  border-radius: 80px;
+}
+
+.calculator button:hover {
+  background-color: rgb(93, 93, 93);
+}
+
+.calculator .op {
+  background-color: orange;
+}
+
+.calculator .op:hover {
+  background-color: rgb(252, 230, 189);
+  color: orange;
+}
+
+.calculator .equal {
+  background-color: rgb(44, 223, 44);
+}
+
+.calculator .equal:hover {
+  background-color: rgb(44, 223, 44);
+}
+
+.calculator .back {
+  background-color: red;
+}
+.calculator .back:hover{
+  background-color: rgb(255, 62, 62)
+}
+
+.calculator .clear {
+  background-color: red;
+}
+
+.calculator .clear:hover {
+  background-color: red;
+}
+
+.key {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  gap: 20px;
+}
+
+.zero {
+  grid-column: span 2;
+}
+
+.equal {
+  grid-column: 4/ span 1;
+}
+
+.back {
+  grid-column: 4;
+}
+
+.clear {
+  grid-column: 3;
+}
+
+.list-container {
+  width: 40%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.input-field {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 20px;
+}
+
+.list {
+  text-align: left;
+  display: grid;
+  grid-template-columns: repeat(1,.15fr) repeat(4,1fr);
+  margin-bottom: 20px;
+  gap: 20px;
+  font-size: 18px;
+}
+
+.check {
+  display: flex;
+  align-items: center;
+}
+
+.task {
+  display: flex;
+  align-items: center;
+}
+
+.date {
+  display: flex;
+  align-items: center;
+  grid-column: 4;
+}
+
+.delete,.edit{
+  color: white;
+  font-weight: bolder;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  padding: 16px 32px;
+  background-color: rgb(255, 0, 0);
+}
+
+.edit {
+  background-color: rgb(34, 227, 0);
+}
+
+input {
+  font-size: 16px;
+  padding: 10px;
+  border:none;
+  border-bottom: 1px solid grey;
+}
+
+input[type='checkbox'] {
+  width: 30px;
+  height: 30px;
+}
