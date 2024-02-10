@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-calculator-todoList/static/css/main.acfc4d7d.css",
-    "main.js": "/react-calculator-todoList/static/js/main.2a8d00a8.js",
+    "main.js": "/react-calculator-todoList/static/js/main.fb55a195.js",
     "reactPlayerYouTube.js": "/react-calculator-todoList/static/js/reactPlayerYouTube.e3b9bb16.chunk.js",
     "reactPlayerSoundCloud.js": "/react-calculator-todoList/static/js/reactPlayerSoundCloud.60fc70b5.chunk.js",
     "reactPlayerVimeo.js": "/react-calculator-todoList/static/js/reactPlayerVimeo.a4b8dafe.chunk.js",
@@ -18,7 +18,7 @@
     "static/js/592.e443b9cd.chunk.js": "/react-calculator-todoList/static/js/592.e443b9cd.chunk.js",
     "index.html": "/react-calculator-todoList/index.html",
     "main.acfc4d7d.css.map": "/react-calculator-todoList/static/css/main.acfc4d7d.css.map",
-    "main.2a8d00a8.js.map": "/react-calculator-todoList/static/js/main.2a8d00a8.js.map",
+    "main.fb55a195.js.map": "/react-calculator-todoList/static/js/main.fb55a195.js.map",
     "reactPlayerYouTube.e3b9bb16.chunk.js.map": "/react-calculator-todoList/static/js/reactPlayerYouTube.e3b9bb16.chunk.js.map",
     "reactPlayerSoundCloud.60fc70b5.chunk.js.map": "/react-calculator-todoList/static/js/reactPlayerSoundCloud.60fc70b5.chunk.js.map",
     "reactPlayerVimeo.a4b8dafe.chunk.js.map": "/react-calculator-todoList/static/js/reactPlayerVimeo.a4b8dafe.chunk.js.map",
@@ -36,6 +36,6 @@
   },
   "entrypoints": [
     "static/css/main.acfc4d7d.css",
-    "static/js/main.2a8d00a8.js"
+    "static/js/main.fb55a195.js"
   ]
 }
